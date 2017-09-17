@@ -1,5 +1,3 @@
-# Assignment 1's README
-
 Navigate to the folder of this README file:
 
 Perform Below commands to compile/run/clean the program:
